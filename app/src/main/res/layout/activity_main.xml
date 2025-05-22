@@ -31,14 +31,14 @@
             android:layout_width="wrap_content"
             android:layout_height="90dp"
             android:scaleType="centerInside"
-            android:src="@drawable/hulk_01" />
+            android:src="@drawable/hulk_02" />
 
         <ImageView
             android:id="@+id/hulk_03"
             android:layout_width="wrap_content"
             android:layout_height="90dp"
             android:scaleType="centerInside"
-            android:src="@drawable/hulk_01" />
+            android:src="@drawable/hulk_03" />
     </LinearLayout>
     
     <Button
