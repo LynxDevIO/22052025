@@ -1,4 +1,5 @@
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/main"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     xmlns:tools="http://schemas.android.com/tools"
@@ -31,14 +32,49 @@
             android:layout_width="wrap_content"
             android:layout_height="90dp"
             android:scaleType="centerInside"
-            android:src="@drawable/hulk_02" />
+            android:src="@drawable/hulk_01" />
 
         <ImageView
             android:id="@+id/hulk_03"
             android:layout_width="wrap_content"
             android:layout_height="90dp"
             android:scaleType="centerInside"
-            android:src="@drawable/hulk_03" />
+            android:src="@drawable/hulk_01" />
+
+        <ImageView
+            android:id="@+id/hulk_04"
+            android:layout_width="wrap_content"
+            android:layout_height="90dp"
+            android:scaleType="centerInside"
+            android:src="@drawable/hulk_01" />
+
+        <ImageView
+            android:id="@+id/hulk_05"
+            android:layout_width="wrap_content"
+            android:layout_height="90dp"
+            android:scaleType="centerInside"
+            android:src="@drawable/hulk_01" />
+
+        <ImageView
+            android:id="@+id/hulk_06"
+            android:layout_width="wrap_content"
+            android:layout_height="90dp"
+            android:scaleType="centerInside"
+            android:src="@drawable/hulk_01" />
+
+        <ImageView
+            android:id="@+id/hulk_07"
+            android:layout_width="wrap_content"
+            android:layout_height="90dp"
+            android:scaleType="centerInside"
+            android:src="@drawable/hulk_01" />
+
+        <ImageView
+            android:id="@+id/hulk_08"
+            android:layout_width="wrap_content"
+            android:layout_height="90dp"
+            android:scaleType="centerInside"
+            android:src="@drawable/hulk_01" />
     </LinearLayout>
     
     <Button
